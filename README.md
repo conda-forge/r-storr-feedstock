@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About r-storr
 =============
 
@@ -18,8 +14,15 @@ Summary: Creates and manages simple key-value stores.  These can use a variety o
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-storr-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-storr-feedstock)
+
+<table><tr><td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=1681&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-storr-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
@@ -116,6 +119,7 @@ Feedstock Maintainers
 * [@ConorIA](https://github.com/ConorIA/)
 * [@bgruening](https://github.com/bgruening/)
 * [@cbrueffer](https://github.com/cbrueffer/)
+* [@conda-forge/r](https://github.com/conda-forge/r/)
 * [@daler](https://github.com/daler/)
 * [@jdblischak](https://github.com/jdblischak/)
 * [@johanneskoester](https://github.com/johanneskoester/)
