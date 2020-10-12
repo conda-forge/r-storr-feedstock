@@ -5,11 +5,9 @@ Home: https://github.com/richfitz/storr
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-storr-feedstock/blob/master/LICENSE.txt)
 
 Summary: Creates and manages simple key-value stores.  These can use a variety of approaches for storing the data.  This package implements the base methods and support for file system, in-memory and DBI-based database stores.
-
-
 
 Current build status
 ====================
@@ -117,10 +115,5 @@ Feedstock Maintainers
 =====================
 
 * [@ConorIA](https://github.com/ConorIA/)
-* [@bgruening](https://github.com/bgruening/)
-* [@cbrueffer](https://github.com/cbrueffer/)
 * [@conda-forge/r](https://github.com/conda-forge/r/)
-* [@daler](https://github.com/daler/)
-* [@jdblischak](https://github.com/jdblischak/)
-* [@johanneskoester](https://github.com/johanneskoester/)
 
